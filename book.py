@@ -56,7 +56,6 @@ class Book:
         else:
             print("out of stock")
 
-    av_stock = []
 
     def author(self):
         
